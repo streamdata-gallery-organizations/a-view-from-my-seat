@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/297-a-view
 x-kinRank: "8"
 x-alexaRank: "38314"
 tags: A View From My Seat
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/a-view-from-my-seat/master/_listings/a-view-from-my-seat/apis.md
 specificationVersion: "0.14"
 apis: []
